@@ -8,7 +8,7 @@ const PORT = 3001;
 
 const middleWare = 
 
-app.use(middleware)
+app.use(middleware);
 
 let noteForm;
 let noteTitle;
