@@ -1,14 +1,4 @@
-const fs = require('fs');
 
-const notes = require('/notes');
-const express = requre('express');
-
-const app = express();
-const PORT = 3001;
-
-const middleWare = 
-
-app.use(middleware);
 
 let noteForm;
 let noteTitle;
