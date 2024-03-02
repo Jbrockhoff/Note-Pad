@@ -15,7 +15,20 @@ This application allows users to input notes or tasks they would like to track b
     npm install inquirer@8.2.4
 
 ## Usage
-Here is a link to my GitHub repository for this application: Here is a link to my Heroku repository for this application:  Here are screenshots of my deployed application:
+Here is a link to my GitHub repository for this application: 
+https://github.com/Jbrockhoff/Note-Taker
+
+Here is a link to my deployed application:
+https://github.com/Jbrockhoff/Note-Taker
+
+Here is a link to my Heroku repository for this application:  
+
+Here are screenshots of my deployed application:
+![notetaker1](./public/assets/notetaker1.png)
+![notetaker2](./public/assets/notetaker2.png)
+![notetaker3](./public/assets/notetaker3.png)
+![notetaker4](./public/assets/notetaker4.png)
+
 
 ## License
 ISC
