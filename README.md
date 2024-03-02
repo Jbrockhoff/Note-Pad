@@ -19,7 +19,7 @@ Here is a link to my GitHub repository for this application:
 https://github.com/Jbrockhoff/Note-Taker
 
 Here is a link to my deployed application:
-https://github.com/Jbrockhoff/Note-Taker
+https://jbrockhoff.github.io/Note-Taker/
 
 Here is a link to my Heroku repository for this application:  
 
