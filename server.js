@@ -1,3 +1,4 @@
+//This file calls the api and declares the port for deployment
 const express = require("express");
 const PORT = 3001;
 const api = require('./routes/index');
