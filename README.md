@@ -41,6 +41,8 @@ THE SOFTWARE IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES WIT
 ## Contributors
 Tutoring assitance from Chris Baird
 
+Information on uniqid from https://www.npmjs.com/package/uniqid
+
 ## Tests
 Jest
 
