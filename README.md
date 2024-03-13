@@ -21,7 +21,8 @@ https://github.com/Jbrockhoff/Note-Taker
 Here is a link to my deployed application:
 https://jbrockhoff.github.io/Note-Taker/
 
-Here is a link to my Heroku repository for this application:  
+Here is a link to my Heroku repository for this application:
+https://frozen-cliffs-63898-85cbe2592bad.herokuapp.com/  
 
 Here are screenshots of my deployed application:
 ![notetaker1](./public/assets/notetaker1.png)
